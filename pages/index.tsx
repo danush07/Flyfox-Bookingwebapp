@@ -8,9 +8,9 @@ import LargeCard from '../components/LargeCard.js'
 import Footer from '../components/Footer.js'
 
 
-export default function Home({exploreData, cardsData}) {
+export default function Home({ exploreData, cardsData}) {
   return (
-    <div>
+    <div className=''>
       <Head>
         <title>flyfox</title>
       </Head>
